@@ -552,7 +552,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    28: PLATFORM_LUMIN
   platformArchitecture: {}
   scriptingBackend:
     Lumin: 1
