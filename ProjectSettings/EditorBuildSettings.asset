@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Meshing_Exp.unity
-    guid: 46df1d420d40a09489c43980af5dd13f
+    path: Assets/_External/MagicLeap/Examples/Scenes/Meshing.unity
+    guid: 867506c3cbb29bc42a71d236fbd415c2
   m_configObjects: {}

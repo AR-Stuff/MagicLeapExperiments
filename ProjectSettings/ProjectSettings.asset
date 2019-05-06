@@ -46,7 +46,7 @@ PlayerSettings:
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
-  m_StereoRenderingPath: 0
+  m_StereoRenderingPath: 2
   m_ActiveColorSpace: 1
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
@@ -142,7 +142,7 @@ PlayerSettings:
     lumin:
       depthFormat: 0
       frameTiming: 2
-      enableGLCache: 0
+      enableGLCache: 1
       glCacheMaxBlobSize: 524288
       glCacheMaxFileSize: 8388608
     oculus:
@@ -301,7 +301,7 @@ PlayerSettings:
     m_APIs: 0b000000
     m_Automatic: 1
   - m_BuildTarget: LuminSupport
-    m_APIs: 11000000
+    m_APIs: 110000000b000000
     m_Automatic: 0
   - m_BuildTarget: WindowsStandaloneSupport
     m_APIs: 11000000
